@@ -91,7 +91,7 @@ const s = StyleSheet.create({
     name: '',
     placeholder: {
       number: '•••• •••• •••• ••••',
-      name: 'FULL NAME',
+      name: 'VARDAS PAVARDĖ',
       expiry: '••/••',
       cvc: '•••'
     },
