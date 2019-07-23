@@ -39,7 +39,7 @@ const s = StyleSheet.create({
   name: {
     fontSize: 16,
     position: 'absolute',
-    bottom: 30,
+    bottom: 25,
     left: 25,
     right: 100
   },
