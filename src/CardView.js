@@ -181,7 +181,7 @@ const s = StyleSheet.create({
                 focused === 'expiry' && s.focused
               ]}
             >
-              MONTH/YEAR
+              MĖNUO/METAI
             </Text>
             <Text
               style={[
